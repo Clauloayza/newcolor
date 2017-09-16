@@ -1,0 +1,33 @@
+*{
+	outline: 1px rgba(255, 0, 235, 0.31) solid; 
+}
+.palet-colors{
+	margin: 30px;
+	text-align: center;
+}
+#background{
+	background: rgba(9, 127, 142, 0.93);
+	height: 100px;
+}
+.colors{
+	display: flex;
+}
+.color{
+	border-radius: 100%;
+	border: 2px solid rgba(188, 168, 168, 0.88);
+	width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+.red{
+	background: #ff0808;
+}
+.blue{
+	background: #0000ff;
+}
+.yellow{
+	background: #fdfd00;
+}
+.add{
+	margin-top: 20px;
+}
